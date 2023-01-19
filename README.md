@@ -1,13 +1,9 @@
 <h1 align='center' paddingBottom='10px'>
   Hii, I'm Fernando👨🏽‍💻 
-  <p align="center" margin-right='5px'>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things" />
+  <p align="center">
+       <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things" />
   </p>
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things" />
-</p>
 
 <p align='center'><b>Check out my portfolio, it's cooler than my README 😎</b></p>
 
