@@ -1,7 +1,6 @@
 ### Hi there 👋
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
-</p>
 
 
 ### 🧰 Languages and Tools
