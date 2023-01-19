@@ -1,6 +1,9 @@
-<h1 align='center' paddingBottom='10px'>Hii, I'm Fernando👨🏽‍💻 </h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg) 
+<h1 align='center' paddingBottom='10px'>
+  Hii, I'm Fernando👨🏽‍💻 
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things" />
+  </p>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things" />
