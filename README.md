@@ -2,7 +2,16 @@
   Hii, I'm Fernando👨🏽‍💻 
   <p align="center">
        <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things" />
-  </p>
+   </p> 
+  <p align='center'><b>Check out my portfolio, it's cooler than my README 😎</b></p>
+
+  <p align='center'>
+  <a href="" align='center' target="_blank"  rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  </a>
+  <a href="www.linkedin.com/in/fernandcastro958" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </p> 
 </h1>
 
 <p align='center'><b>Check out my portfolio, it's cooler than my README 😎</b></p>
