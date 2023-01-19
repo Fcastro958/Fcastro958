@@ -1,6 +1,6 @@
 <h1 align='center' paddingBottom='10px'>Hii, I'm Fernando👨🏽‍💻 </h1>
 
-<p align='center'> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg) </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg) 
 
 <p align='center'><b>Check out my portfolio, it's cooler than my README 😎</b></p>
 
