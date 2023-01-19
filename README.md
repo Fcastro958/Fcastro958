@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg) 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things" />
+</p>
+
 <p align='center'><b>Check out my portfolio, it's cooler than my README 😎</b></p>
 
 <p align='center'>
