@@ -11,8 +11,6 @@
   <a href="www.linkedin.com/in/fernandcastro958" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p> 
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 
 ### 🧰 Languages and Tools
