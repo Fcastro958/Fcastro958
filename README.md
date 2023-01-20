@@ -20,7 +20,6 @@
 </p>
 #
 
-<details> 
   <h2 align='center' paddingBottom='10px'> Tech Stack </h2>
 
 
