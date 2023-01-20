@@ -14,7 +14,7 @@
   <a href="www.linkedin.com/in/fernandcastro958" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p> 
-
+<img align="left alt="Fernando Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fcastro958&show_icos=true&hide_boarder=true"/>
 
 ### 🧰 Languages and Tools
 
