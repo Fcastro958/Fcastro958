@@ -20,6 +20,17 @@
 </p>
 #
 
+<h2 align='center' paddingBottom='10px'> Projects </h2>
+
+[Airbnb UI Clone](https://github.com/Fcastro958/Airbnb-clone) [Front End]           
+  :-----------------------:
+![rhydon](/assets/photos/Airbnb.png ) |  
+
+<!--
+<img src=/assets/photos/temp.png width='95%' align='center'> </img>
+<img src=/assets/photos/productoverview.png  width='75%' align='center'> </img>
+-->
+
   <h2 align='center' paddingBottom='10px'> Tech Stack </h2>
 
 
