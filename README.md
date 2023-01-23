@@ -22,9 +22,9 @@
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-[Airbnb UI Clone](https://github.com/Fcastro958/Airbnb-clone) [Front End]           
+[Airbnb-clone](https://github.com/Fcastro958/Airbnb-clone) [Front End]           
   :-----------------------:
-![rhydon](/assets/photos/Airbnb.png ) |  
+![Airbnb-clone](/assets/photos/Airbnb.png )   
 
 <!--
 <img src=/assets/photos/temp.png width='95%' align='center'> </img>
