@@ -7,10 +7,18 @@
 
 <p align='center'><b>Check out my portfolio, it's cooler than my README 😎</b></p>
 
-<p align='center'  paddingTop='100px'>
-  <a href="" align='center' target="_blank"  rel="noreferrer noopener" >
+
+<p align='center'>
+  <a href="https://Fernando.com" align='center' target="_blank"  rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a>
+  <a href="www.linkedin.com/in/fernandcastro958/" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+  <a href="mailto:fernando77castroo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
+  <img src="https://komarev.com/ghpvc/?username=JeromeMTR&style=for-the-badge" />
 </p> 
 
 
