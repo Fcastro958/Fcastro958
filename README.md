@@ -5,18 +5,12 @@
    </p>
 </h1>
 
-<p align='center'><b>Check out my portfolio, it's cooler than my README 😎 or Connect with me!</b></p>
+<p align='center'><b>Check out my portfolio, it's cooler than my README 😎</b></p>
 
 <p align='center'  paddingTop='100px'>
   <a href="" align='center' target="_blank"  rel="noreferrer noopener" >
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a>
-  <a href="https://linkedin.com/in/fernandcastro958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandcastro958" height="40" width="40" padd /></a>
-<a href="https://www.leetcode.com/fcastro958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fcastro958" height="40" width="40" /></a>
-</p> 
-  <p align=center>
-<a href="http://www.github.com/Fcastro958"><img src="https://github-readme-stats.vercel.app/api?username=Fcastro958&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Fernando's GitHub stats" /></a>
-<a href="http://www.github.com/Fcastro958"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fcastro958&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 </p>
 
 
@@ -90,9 +84,9 @@
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
      </a>
-     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-         code&logoColor=white"></a>
-  </p>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+    </a>
   
   
 
