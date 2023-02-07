@@ -17,9 +17,8 @@
    </a>
   <a href="mailto:fernando77castroo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+     <img src="https://komarev.com/ghpvc/?username=Fcastro958&style=for-the-badge" />
   </a> 
-  <a href="http://www.github.com/fcastro958"><img src="https://github-readme-stats.vercel.app/api?username=Fcastro958&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Fernando's GitHub stats" /></a>
-<a href="http://www.github.com/Fcastro958"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fcastro958&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 </p> 
 
 
