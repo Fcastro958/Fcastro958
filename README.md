@@ -7,8 +7,8 @@
 
 <p align='center'><b>Check out my portfolio, it's cooler than my README 😎 or Connect with me!</b></p>
 
-<p align='center'>
-  <a href="" align='center' target="_blank"  rel="noreferrer noopener" paddingTop='100px'>
+<p align='center'  paddingTop='100px'>
+  <a href="" align='center' target="_blank"  rel="noreferrer noopener" >
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a>
   <a href="https://linkedin.com/in/fernandcastro958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandcastro958" height="40" width="40" padd /></a>
