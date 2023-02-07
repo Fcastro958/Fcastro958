@@ -11,8 +11,8 @@
   <a href="" align='center' target="_blank"  rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a>
-  <a href="https://linkedin.com/in/fernandcastro958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandcastro958" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fcastro958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fcastro958" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/fernandcastro958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandcastro958" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/fcastro958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fcastro958" height="40" width="40" /></a>
 </p> 
   <p align=center>
 <a href="http://www.github.com/Fcastro958"><img src="https://github-readme-stats.vercel.app/api?username=Fcastro958&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Fernando's GitHub stats" /></a>
