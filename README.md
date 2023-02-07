@@ -18,7 +18,7 @@
   <a href="mailto:fernando77castroo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
-  <img src="https://komarev.com/ghpvc/?username=JeromeMTR&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=fcastro958&label=Profile%20views&color=0e75b6&style=flat" alt="fcastro958" />
 </p> 
 
 
