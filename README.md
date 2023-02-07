@@ -21,11 +21,8 @@
 
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
-
-
   <h2 align='center' paddingBottom='10px'>Languages and Tools:</h2>
-
-
+<div align='center' backgroundColor='white'>
 <p align='center'>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -95,7 +92,8 @@
      </a>
      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
          code&logoColor=white"></a>
-</p>
+  </p>
+</div>
   
   
 
