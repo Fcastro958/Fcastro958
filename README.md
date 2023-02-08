@@ -32,11 +32,11 @@
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-<p align='center'>
+
   [Airbnb-Clone](https://github.com/Fcastro958/Airbnb_Clone)) [Front End] 
   ![Imgur](https://i.imgur.com/c9MnqMn.gif)
 
-</p>
+
 <!-- 
  <p align align='center'>[Admissons_hub](https://github.com/Fcastro958/admissions-hub) [full stack]</p>
 ![Imgur](https://i.imgur.com/PgihuMr.gif)
