@@ -31,26 +31,13 @@
 
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
+[Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone) [Front End] |[admissions-hub](https://github.com/Fcastro958/admissions-hub) [Full Stack]
+  :-------------------------:|:-------------------------:
+![Imgur](https://i.imgur.com/c9MnqMnm.gif)|  ![Imgur](https://i.imgur.com/PgihuMrm.gif)
+[DataBase_Duel](https://github.com/Fcastro958/DataBase_Duel) [Front back]         |    [deliver-app](https://github.com/Fcastro958/delivery-app) [IOS App]
+  :-----------------------:|:-------------------------:
+![Imgur](https://i.imgur.com/IpUGAuHt.gif) |  ![Imgur](https://i.imgur.com/IpUGAuHt.gif) 
 
-# Projects 
-
-[Airbnb-Clone](https://github.com/Fcastro958/Airbnb_Clone)) [Front End] 
-![Imgur](https://i.imgur.com/c9MnqMn.gif)
-
-[Admissons_hub](https://github.com/Fcastro958/admissions-hub) [full stack]
-![Imgur](https://i.imgur.com/PgihuMr.gif)
-
-[delivery_App](https://github.com/Fcastro958/delivery-app) [IOS App]
-![Imgur](https://i.imgur.com/IpUGAuH.gif)
-
-
-<!-- 
- <p align align='center'>[Admissons_hub](https://github.com/Fcastro958/admissions-hub) [full stack]</p>
-![Imgur](https://i.imgur.com/PgihuMr.gif)
-
-[delivery_App](https://github.com/Fcastro958/delivery-app) [IOS App]
-![Imgur](https://i.imgur.com/IpUGAuH.gif)
-</p> -->
 
 <p align='center'>
     <img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" />
