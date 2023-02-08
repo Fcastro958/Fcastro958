@@ -1,65 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <style>
-      .projects-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-      }
-
-      .project {
-        width: 300px;
-        height: 300px;
-        margin: 20px;
-        text-align: center;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-        transition: 0.3s;
-      }
-
-      .project:hover {
-        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-      }
-
-      .project h3 {
-        padding: 20px;
-        font-size: 22px;
-        font-weight: bold;
-      }
-
-      .project img {
-        width: 100%;
-        height: 200px;
-        object-fit: cover;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="projects-container">
-      <div class="project">
-        <h3>Project 1</h3>
-        <img src="project1.gif" alt="Project 1">
-      </div>
-      <div class="project">
-        <h3>Project 2</h3>
-        <img src="project2.gif" alt="Project 2">
-      </div>
-      <div class="project">
-        <h3>Project 3</h3>
-        <img src="project3.gif" alt="Project 3">
-      </div>
-      <div class="project">
-        <h3>Project 4</h3>
-        <img src="project4.gif" alt="Project 4">
-      </div>
-    </div>
-  </body>
-</html>
-
-
-
-
-
 <h1 align='center' paddingBottom='10px'>
   Hii, I'm Fernando👨🏽‍💻 
   <p align="center">
@@ -84,7 +22,7 @@
 </p> 
 
 
-<p align=center>
+<p align='center'>
 <a href="http://www.github.com/fcastro958"><img src="https://github-readme-stats.vercel.app/api?username=Fcastro958&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Fernando's GitHub stats" /></a>
 <a href="http://www.github.com/Fcastro958"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fcastro958&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 </p>
@@ -94,14 +32,16 @@
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
-[delivery_App](https://github.com/Fcastro958/delivery-app) [IOS App] |[Admissons_hub](https://github.com/Fcastro958/admissions-hub) [full stack]
-  :-------------------------:|:-------------------------:
-![Imgur](https://i.imgur.com/IpUGAuH.gif) |  ![Imgur](https://i.imgur.com/PgihuMr.gif)
+<P align align='center'>
+[Airbnb-Clone](https://github.com/Fcastro958/Airbnb_Clone)) [Front End] 
+![Imgur](https://i.imgur.com/c9MnqMn.gif)
 
+[Admissons_hub](https://github.com/Fcastro958/admissions-hub) [full stack]
+![Imgur](https://i.imgur.com/PgihuMr.gif)
 
-[Airbnb-Clone](https://github.com/Fcastro958/Airbnb_Clone)) [Front End]         |    [DataBase_Duel](https://github.com/Fcastro958/DataBase_Duel) [Back End]
-  :-----------------------:|:-------------------------:
-![Imgur](https://i.imgur.com/c9MnqMn.gif) |  
+[delivery_App](https://github.com/Fcastro958/delivery-app) [IOS App]
+![Imgur](https://i.imgur.com/IpUGAuH.gif)
+</p>
 
 <p align='center'>
     <img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" />
