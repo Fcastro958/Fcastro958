@@ -33,11 +33,13 @@
 <h2 align='center'> Projects </h2>
 
 
-<h2 align='center'> Projects </h2>
+
+<h2 align='center' paddingBottom='10px'> Projects </h2>
 
 <div align="center">
 
 [Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone.git) [Front End]
+
 ![Imgur](https://i.imgur.com/c9MnqMn.gif)
 
 
