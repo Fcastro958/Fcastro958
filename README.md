@@ -55,7 +55,7 @@
 </div>
 
 
-]
+
 
 
 <h2 align='center'> 🧰 Tech Stack, Libraries & Tools </h2>
