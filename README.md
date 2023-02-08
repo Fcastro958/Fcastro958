@@ -29,9 +29,6 @@
 
 
 
-]
-
-
 
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
