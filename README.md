@@ -38,7 +38,6 @@
 <div align="center">
 
 [Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone.git) [Front End]
-
 ![Imgur](https://i.imgur.com/c9MnqMn.gif)
 
 
