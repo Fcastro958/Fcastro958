@@ -36,7 +36,7 @@
 
 [Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone) [Front End]
 
-![Imgur](https://i.imgur.com/n7vS74c.gif)
+![Imgur](https://i.imgur.com/PgihuMr.gif)
 
 
 [admissions-hub](https://github.com/Fcastro958/admissions-hub) [Full Stack]
