@@ -32,6 +32,9 @@
 
 <h2 align='center'> Projects </h2>
 
+
+<h2 align='center'> Projects </h2>
+
 <div align="center">
 
 [Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone.git) [Front End]
@@ -42,6 +45,7 @@
 [admissions-hub](https://github.com/Fcastro958/admissions-hub) [Full Stack]
 
 ![Imgur](https://i.imgur.com/PgihuMr.gif)
+
 
  [DataBase_Duel](https://github.com/Fcastro958/DataBase_Duel) [Front back]
 
