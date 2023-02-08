@@ -30,13 +30,16 @@
 
 
 
-<h2 align='center' paddingBottom='10px'> Projects </h2>
-[Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone) [Front End] |[admissions-hub](https://github.com/Fcastro958/admissions-hub) [Full Stack]
+<h2 align='center' paddingBottom='10px'> Projects </h2> 
+
+
+[Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone.git) [Front End] |[admissions-hub](https://github.com/Fcastro958/admissions-hub) [Full Stack]
   :-------------------------:|:-------------------------:
 ![Imgur](https://i.imgur.com/c9MnqMnm.gif)|  ![Imgur](https://i.imgur.com/PgihuMrm.gif)
 [DataBase_Duel](https://github.com/Fcastro958/DataBase_Duel) [Front back]         |    [deliver-app](https://github.com/Fcastro958/delivery-app) [IOS App]
   :-----------------------:|:-------------------------:
 ![Imgur](https://i.imgur.com/IpUGAuHt.gif) |  ![Imgur](https://i.imgur.com/IpUGAuHt.gif) 
+
 
 
 <p align='center'>
