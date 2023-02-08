@@ -1,3 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .projects-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+
+      .project {
+        width: 300px;
+        height: 300px;
+        margin: 20px;
+        text-align: center;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        transition: 0.3s;
+      }
+
+      .project:hover {
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+      }
+
+      .project h3 {
+        padding: 20px;
+        font-size: 22px;
+        font-weight: bold;
+      }
+
+      .project img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="projects-container">
+      <div class="project">
+        <h3>Project 1</h3>
+        <img src="project1.gif" alt="Project 1">
+      </div>
+      <div class="project">
+        <h3>Project 2</h3>
+        <img src="project2.gif" alt="Project 2">
+      </div>
+      <div class="project">
+        <h3>Project 3</h3>
+        <img src="project3.gif" alt="Project 3">
+      </div>
+      <div class="project">
+        <h3>Project 4</h3>
+        <img src="project4.gif" alt="Project 4">
+      </div>
+    </div>
+  </body>
+</html>
+
+
+
+
+
 <h1 align='center' paddingBottom='10px'>
   Hii, I'm Fernando👨🏽‍💻 
   <p align="center">
