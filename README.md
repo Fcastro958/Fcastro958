@@ -58,6 +58,8 @@
 </div>
 
 
+![Imgur](https://i.imgur.com/c9MnqMn.gif)
+
 
 <h2 align='center'> 🧰 Tech Stack, Libraries & Tools </h2>
 <p align='center'>
