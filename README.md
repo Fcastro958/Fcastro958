@@ -32,7 +32,7 @@
 
 <div align="center">
 
-[Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone.git) [Front End]
+[Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone) [Front End]
 
 ![Imgur](https://i.imgur.com/FBaYXas.gif)
 
