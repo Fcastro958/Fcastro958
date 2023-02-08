@@ -29,8 +29,17 @@
 
 
 
+
 <h2 align='center' paddingBottom='10px'> Projects </h2>
-  <h2 align='center' paddingBottom='10px'>Languages and Tools:</h2>
+
+[delivery_App](https://github.com/Fcastro958/delivery-app) [IOS App] |[Admissons_hub](https://github.com/Fcastro958/admissions-hub) [full stack]
+  :-------------------------:|:-------------------------:
+![Imgur](https://i.imgur.com/IpUGAuH.gif) |  ![Imgur](https://i.imgur.com/PgihuMr.gif)
+
+
+[Airbnb-Clone](https://github.com/Fcastro958/Airbnb_Clone)) [Front End]         |    [DataBase_Duel](https://github.com/Fcastro958/DataBase_Duel) [Back End]
+  :-----------------------:|:-------------------------:
+![Imgur](https://i.imgur.com/c9MnqMn.gif) |  
 
 <p align='center'>
     <img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" />
