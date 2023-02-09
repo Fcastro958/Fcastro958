@@ -45,7 +45,6 @@
  [DataBase_Duel](https://github.com/Fcastro958/DataBase_Duel) [Front back]
 
  
- ![Imgur](https://i.imgur.com/IpUGAuH.gif)
  ![Imgur](https://i.imgur.com/YizzeJu.gif)
 
 
