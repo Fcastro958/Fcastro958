@@ -41,18 +41,13 @@
 
  
  ![Imgur](https://i.imgur.com/c9MnqMn.gif)
-<iframe class="imgur-embed" width="100%" height="998" frameborder="0" src="https://i.imgur.com/c9MnqMn.gifv#embed"></iframe>
-  
+
 
  [deliver-app](https://github.com/Fcastro958/delivery-app) [IOS App]
 
   ![Imgur](https://i.imgur.com/IpUGAuH.gif)
 
 </div>
-
-|[Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone) |
-| ----------- | ----------- |
-| ![Imgur](https://i.imgur.com/c9MnqMn.gif) |
 
 
 
