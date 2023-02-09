@@ -31,6 +31,10 @@
 <h2 align='center' paddingBottom='10px'> Projects </h2>
 
 <div align="center">
+  
+[Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone)  
+  ![Imgur](https://i.imgur.com/FBaYXash.gif)
+  ![Imgur](https://i.imgur.com/FBaYXash.gif)
 
 [admissions-hub](https://github.com/Fcastro958/admissions-hub) [Full Stack]
 
@@ -41,8 +45,6 @@
 
  
  ![Imgur](https://i.imgur.com/IpUGAuH.gif)
-  
-  ![Imgur](https://i.imgur.com/FBaYXash.gif)
 
 
  [deliver-app](https://github.com/Fcastro958/delivery-app) [IOS App]
