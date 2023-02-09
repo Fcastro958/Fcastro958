@@ -41,7 +41,7 @@
 
  
  ![Imgur](https://i.imgur.com/c9MnqMn.gif)
- ![Imgur](https://i.imgur.com/c9MnqMnm.gif)
+ ![Imgur](https://i.imgur.com/c9MnqMnb.gif)
 
  [deliver-app](https://github.com/Fcastro958/delivery-app) [IOS App]
 
