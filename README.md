@@ -32,9 +32,9 @@
 
 <div align="center">
   
-[Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone)  
-  ![Imgur](https://i.imgur.com/FBaYXash.gif)
-  ![Imgur](https://i.imgur.com/C0xBed7.gif)
+[Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone) [Front end]
+  
+ ![Imgur](https://i.imgur.com/O6hLj2Wh.gif)
   
 [admissions-hub](https://github.com/Fcastro958/admissions-hub) [Full Stack]
 
