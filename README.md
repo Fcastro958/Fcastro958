@@ -34,7 +34,6 @@
   
 [Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone) [Front end]
   
- ![Imgur](https://i.imgur.com/O6hLj2Wh.gif)
   ![Imgur](https://i.imgur.com/O6hLj2W.gif)
 
   
