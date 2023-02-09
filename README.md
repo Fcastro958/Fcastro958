@@ -50,6 +50,10 @@
 
 </div>
 
+|[Airbnb_Clone](https://github.com/Fcastro958/Airbnb_Clone) |
+| ----------- | ----------- |
+| ![Imgur](https://i.imgur.com/c9MnqMn.gif) |
+
 
 
 <h2 align='center'> 🧰 Tech Stack, Libraries & Tools </h2>
